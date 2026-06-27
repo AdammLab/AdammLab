@@ -1,5 +1,7 @@
 # Ashraf Mostafa
 
+🔗 **الموقع الشخصي والمحفظة التفاعلية (Live Portfolio):** [blue-sonic.github.io/Blue-Sonic/](https://blue-sonic.github.io/Blue-Sonic/)
+
 Cybersecurity student at **Elsewedy University of Technology** | Cairo, Egypt  
 Specializing in **Red Teaming** and offensive security operations.
 
