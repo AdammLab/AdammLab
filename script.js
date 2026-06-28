@@ -145,7 +145,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Available commands documentation
     const commands = {
         help: "عرض الأوامر المتاحة في النظام",
-        about: "عرض السيرة الذاتية ومعلومات عن أشرف",
+        about: "عرض السيرة الذاتية ومعلومات عن آدم",
         skills: "عرض القدرات واللغات البرمجية",
         tools: "عرض ترسانة أدوات الأمان التي أتقنها",
         education: "عرض التفاصيل الأكاديمية والشهادات",
@@ -161,7 +161,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const cleanInput = rawInput.trim().toLowerCase();
             
             // Print user command line in LTR console
-            writeToTerminal(`guest@bluesonic:~# ${rawInput}`, "user-cmd");
+            writeToTerminal(`guest@adammlab:~# ${rawInput}`, "user-cmd");
 
             if (cleanInput) {
                 executeCommand(cleanInput);
@@ -193,8 +193,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 
             case "about":
             case "whoami":
-                writeToTerminal("السيرة الذاتية (Ashraf Mostafa / Blue-Sonic):", "success-msg");
-                writeToTerminal("  الاسم: أشرف مصطفى");
+                writeToTerminal("السيرة الذاتية (Adam Mostafa / AdamMLab):", "success-msg");
+                writeToTerminal("  الاسم: آدم مصطفى");
                 writeToTerminal("  التخصص: طالب أمن سيبراني وشبكات بجامعة السويدي للتكنولوجيا (Cairo, Egypt)");
                 writeToTerminal("  الشغف: Red Teaming، الهجمات السيبرانية الأخلاقية، وفحص الأنظمة الهجومي");
                 writeToTerminal("  الأهداف: تعزيز أمن البنى التحتية الرقمية في مصر والعالم العربي.");
@@ -228,7 +228,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 writeToTerminal("بيانات الاتصال الآمن (Secure Communications):", "success-msg");
                 writeToTerminal("  - البريد الإلكتروني : <a href=\"mailto:ashraf.0xa7m@gmail.com\" class=\"highlight\">ashraf.0xa7m@gmail.com</a>");
                 writeToTerminal("  - الواتساب المباشر: <a href=\"https://wa.me/201055502256\" target=\"_blank\" class=\"highlight\">+20 105 550 2256</a>");
-                writeToTerminal("  - حساب GitHub      : <a href=\"https://github.com/Blue-Sonic\" target=\"_blank\" class=\"highlight\">github.com/Blue-Sonic</a>");
+                writeToTerminal("  - حساب GitHub      : <a href=\"https://github.com/AdamMLab\" target=\"_blank\" class=\"highlight\">github.com/AdamMLab</a>");
                 break;
                 
             case "clear":
@@ -262,9 +262,9 @@ document.addEventListener("DOMContentLoaded", () => {
             { text: "🔓 [ثغرة مكتشفة] SQL injection parameter found at: /api/v1/auth/login", delay: 1600, style: "error-msg" },
             { text: "⏳ bypass complete. extracting hash data...", delay: 2200, style: "system-msg" },
             { text: "🔑 cracking admin NTLM hash [MD5: e99a182b3f2...]", delay: 2800, style: "system-msg" },
-            { text: "⚡ [نجاح الكسر] password decrypted: 'admin_bluesonic_sec2026'", delay: 3500, style: "success-msg" },
+            { text: "⚡ [نجاح الكسر] password decrypted: 'admin_adammlab_sec2026'", delay: 3500, style: "success-msg" },
             { text: "🛡️ disabling intrusion detection system (IDS)... DONE.", delay: 4000, style: "success-msg" },
-            { text: "👑 ACCESS GRANTED. Blue-Sonic has rooted the simulation!", delay: 4600, style: "success-msg" },
+            { text: "👑 ACCESS GRANTED. AdamMLab has rooted the simulation!", delay: 4600, style: "success-msg" },
             { text: "ASCII_ART", delay: 4800, style: "" }
         ];
 
@@ -357,7 +357,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 submitBtn.style.boxShadow = "var(--glow-green)";
                 
                 formStatus.style.color = "var(--neon-green)";
-                formStatus.innerHTML = `[🔐 نجاح] أهلاً ${name}، تم إرسال رسالتك بنجاح وسيتواصل معك أشرف قريباً!`;
+                formStatus.innerHTML = `[🔐 نجاح] أهلاً ${name}، تم إرسال رسالتك بنجاح وسيتواصل معك آدم قريباً!`;
                 
                 // Clear fields
                 contactForm.reset();
