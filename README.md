@@ -1,6 +1,6 @@
 # Adam Mostafa
 
-**Cairo, Egypt** | **+20 105 550 2256** | **[ashraf.0xa7m@gmail.com](mailto:ashraf.0xa7m@gmail.com)** | **[Live Portfolio](https://adammlab.github.io/AdammLab/)**
+**Cairo, Egypt** | **+20 105 550 2256** | **[ashraf.0xa7m@gmail.com](mailto:ashraf.0xa7m@gmail.com)** | **[Live Portfolio](https://adammlab.github.io/CV/)**
 
 ---
 
