@@ -1,49 +1,48 @@
-# Adam Mostafa (AdamMLab) 👋
+# Adam Mostafa
 
-🔗 **الموقع الشخصي والمحفظة التفاعلية (Live Portfolio):** [adammlab.github.io/AdammLab/](https://adammlab.github.io/AdammLab/)
-
-Cybersecurity student at **Elsewedy University of Technology** | Cairo, Egypt  
-Specializing in **Red Teaming**, offensive security operations, and penetration testing.
+**Cairo, Egypt** | **+20 105 550 2256** | **[ashraf.0xa7m@gmail.com](mailto:ashraf.0xa7m@gmail.com)** | **[Live Portfolio](https://adammlab.github.io/AdammLab/)**
 
 ---
 
-### 💻 Cyber Arsenal & Tech Stack
+### EXPERIENCE
 
-**Programming & Scripting:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Security Tools & Frameworks:**  
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-8A2BE2?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
-
-**Operating Systems:**  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+**Private Banks (via University Program)** | *Cairo, Egypt*  
+*Cybersecurity Intern (Upcoming)* | *Expected Fall 2026*  
+- Selected for the cybersecurity corporate internship program, conducted in partnership with leading private banks in Egypt.
+- Will focus on security operations center (SOC) fundamentals, analyzing security alerts, and threat monitoring.
+- Will gain hands-on experience in vulnerability assessment, firewall configuration, and defensive controls implementation.
 
 ---
 
-### 📊 GitHub Stats
+### PROJECTS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdamMLab&show_icons=true&theme=tokyonight&count_private=true" alt="Adam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMLab&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+**[Hisn (Islamic Daily Supplications Web App)](https://github.com/AdamMLab/Hisn)** | *June 2026*  
+- Designed and developed a fully responsive web application for daily Muslim supplications using HTML5, CSS3, and Vanilla JavaScript.
+- Implemented an interactive, stateful counter logging system that tracks repetitions for individual supplications, enhancing usability.
+- Deployed and optimized the project using GitHub Pages, achieving sub-second load times and high availability.
+
+**University Form Automation Bot** | *April 2026*  
+- Built a browser-based automation script in JavaScript to automate academic form submissions, reducing manual entry time by 80%.
+- Handled complex input fields mapping and client-side data validation to ensure error-free submissions.
+- Designed a modular codebase allowing easy adaptation for various form layouts and fields.
+
+**Offensive Security & Network Testing Labs** | *Ongoing*  
+- Engineered a secure virtualization environment running Kali Linux to simulate network auditing and offensive security scenarios.
+- Conducted reconnaissance scans and service detection exercises using Nmap to identify network vulnerabilities.
+- Utilized Burp Suite to inspect HTTP headers, tamper with request payloads, and analyze web application inputs.
 
 ---
 
-### 🎯 Currently Learning & Certifications
-- CompTIA Security+ (In Progress)
-- CCNA (In Progress)
-- Advanced Exploit Development & Red Team Ops
+### EDUCATION
+
+**Elsewedy University of Technology** | *Cairo, Egypt*  
+*Bachelor of Science in Networks and Cybersecurity* | *2025 – Present*  
+- **Coursework:** Network Security, Programming Fundamentals (Python, Java), Linux/Windows Administration, Database Management.
 
 ---
 
-### ✉️ Contact & Connect
-- **Email:** [ashraf.0xa7m@gmail.com](mailto:ashraf.0xa7m@gmail.com)
-- **WhatsApp:** [+20 105 550 2256](https://wa.me/201055502256)
+### SKILLS
+
+- **Languages:** Python, Java, Bash Scripting, JavaScript, HTML/CSS, SQL (MySQL)
+- **Tools & Platforms:** Burp Suite, Nmap, Wireshark, SQLmap, Kali Linux, Git, GitHub, VS Code
+- **Certifications (In Progress):** CompTIA Security+, Cisco CCNA (200-301)
